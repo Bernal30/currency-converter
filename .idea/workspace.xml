@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c720dfd7-1ca5-47e8-ae60-e33e5de14c42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainRunners/TestingAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainRunners/TestingAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainRunners/MainRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainRunners/MainRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +42,16 @@
     "Application.MainRun.executor": "Run",
     "Application.TestingAPI.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "testing-converter-logic",
+    "git-widget-placeholder": "developing-app",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Familia Bernal/IdeaProjects/Practicas-cursos-java/currency-converter"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Familia Bernal\IdeaProjects\Practicas-cursos-java\currency-converter" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.TestingAPI">
     <configuration name="MainRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainRunners.MainRun" />
