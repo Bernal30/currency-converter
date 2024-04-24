@@ -10,6 +10,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.util.ArrayList;
 
 public class TestingAPI {
     public static void main(String[] args) throws IOException, InterruptedException {
@@ -35,6 +36,10 @@ public class TestingAPI {
         //transformar de Json a una clase record con un Object como parametro
         ConversionRateList conversionRate = gson.fromJson(json, ConversionRateList.class);
         System.out.println("Resultado de convertir de Json a Clase Record: " + conversionRate);
+
+        //el object de la clase Record pasa a la clase "ExchangeRateList"
+        ExchangeRateList exchangeRateList = new ExchangeRateList(conversionRate, "Lista de Conversiones");
+        
 
 
 
