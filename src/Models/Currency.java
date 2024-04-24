@@ -3,24 +3,23 @@ package Models;
 public class Currency {
 
     //attributes
-    private final String currencyName;
-    private double currencyValue;
+    private final String baseCode;
+    private final Double conversionRate;
+
 
     //currency constructor
-    public Currency(String currencyName) {
-        this.currencyName = currencyName;
+    public Currency(String baseCode, double conversionRate) {
+        this.baseCode = baseCode;
+        this.conversionRate = conversionRate;
     }
 
-    public String getCurrencyName() {
-        return currencyName;
+    public String getBaseCode() {
+        return baseCode;
     }
 
-    public double getCurrencyValue() {
-        return currencyValue;
+    public Double getConversionRate() {
+        return conversionRate;
     }
 
-    public void setCurrencyValue(double currencyValue) {
-        this.currencyValue = currencyValue;
-    }
 
 }
