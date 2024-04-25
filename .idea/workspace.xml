@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c720dfd7-1ca5-47e8-ae60-e33e5de14c42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculations/ConversionCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/ConversionRateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/ExchangeRateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/CurrencyToConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-converter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainRunners/MainRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainRunners/MainRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainRunners/TestingAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainRunners/TestingAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/ExchangeRateList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/ExchangeRateList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainRun.executor": "Run",
-    "Application.TestingAPI.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "developing-app",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Familia Bernal/Gson/gson-2.10.1.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestingAPI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;developing-app&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Familia Bernal/Gson/gson-2.10.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Familia Bernal\IdeaProjects\Practicas-cursos-java\currency-converter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestingAPI">
+  <component name="RunManager" selected="Application.MainRun">
     <configuration name="MainRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainRunners.MainRun" />
       <module name="currency-converter" />
@@ -95,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestingAPI" />
         <item itemvalue="Application.MainRun" />
+        <item itemvalue="Application.TestingAPI" />
       </list>
     </recent_temporary>
   </component>
