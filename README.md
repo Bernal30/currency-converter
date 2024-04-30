@@ -5,14 +5,17 @@
 
 ---
 
-## Objetivo 🎯
+<h2 align="center">Objetivo 🎯</h2>
 
-Para la realización del desafio Back End en la plataforma de Alura, se desarrollo un conversor de monedas con tasas de cambio para cada divisa en tiempo real, haciendo peticiones a una API; consolidando los conocimientos adquiridos y afrontando este proyecto de fomra autonoma para desarrollar habilidades de programación en el lenguaje Java enfocado al paradigma POO (Programación Orientada a Objetos). El resultado además del funcionamiento del programa son las habilidades de investigar la documentación relacionada a las exigencias de un proyecto de software y aplicarla de acuerdo a estas exigencias para una experiencia de usuario gratificante.
+Para la realización del desafio Back End en la plataforma de Alura, se desarrollo un conversor de monedas con tasas de cambio para cada divisa en tiempo real, haciendo peticiones a una API; consolidando los conocimientos adquiridos y afrontando este proyecto de fomra autonoma para desarrollar habilidades de programación en el lenguaje Java enfocado al paradigma POO (Programación Orientada a Objetos).
 
+<p align="center">
+    <img src="Resources/img/Badge-Conversor.png">
+</p>
 
 ## Sobre el proyecto 📖
 
-Un programa de conversión de divisas en tiempo real implementando la API de ExchangeRate un recurso gratutio y facil de usar. Con una interfaz de uso en la terminal se permite elegir que tipo de conversión se desa realizar y se imprime el resultado correspondiente.
+Para la conversión de divisas en tiempo real se implementara la API de ExchangeRate un recurso gratutio y facil de usar. La interfaz y uso del programa se lelbara en la terminal, se permite elegir que tipo de conversión se desa realizar y se imprime el resultado correspondiente.
 
 ## Descripción del desarrollo 🔧🗂️
 

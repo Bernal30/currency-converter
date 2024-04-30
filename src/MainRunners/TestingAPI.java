@@ -17,7 +17,7 @@ public class TestingAPI {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Eliga uan divisa: ");
+        System.out.print("Eliga uan divisa base para las conversiones: ");
         String userCurrency = scanner.next();
 
         String userCurrencyRequest = "https://v6.exchangerate-api.com/v6/4f4f950220bf969d1cbfd78a/latest/"+userCurrency;
