@@ -1,10 +1,13 @@
-package MainRunners;
+package com.converter.MainRunners;
 
 import java.util.Scanner;
 
 public class MainRun {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+
+    Scanner keyboard = new Scanner(System.in);
+
+
+    public void appInterface(){
 
         int userOpcion = 0;
 
@@ -21,7 +24,7 @@ public class MainRun {
                 9) Salir
                 """);
             System.out.print("Que conversión quiere realizar: ");
-            userOpcion = scanner.nextInt();
+            userOpcion = keyboard.nextInt();
 
             switch (userOpcion) {
                 case 1:
@@ -46,14 +49,13 @@ public class MainRun {
                     System.out.println("Gracias por usar Currency Converter!, Saliendo del programa...");
                     break;
                 default:
-                    System.out.println("El número ingresado no coincide con uan opción.");
+                    System.out.println("Número invalido, intente con una opción valida.");
                     break;
             }
         }
 
 
 
-
-        scanner.close();
+        keyboard.close();
     }
 }

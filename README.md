@@ -7,7 +7,7 @@
 
 <h2 align="center">Objetivo 🎯</h2>
 
-Para la realización del desafio Back End en la plataforma de Alura, se desarrollo un conversor de monedas con tasas de cambio para cada divisa en tiempo real, haciendo peticiones a una API; consolidando los conocimientos adquiridos y afrontando este proyecto de fomra autonoma para desarrollar habilidades de programación en el lenguaje Java enfocado al paradigma POO (Programación Orientada a Objetos).
+Para la realización del desafio Back End en la plataforma de Alura, se desarrollo un conversor de monedas con tasas de cambio para cada divisa disponible en un menu de opciones en tiempo real, haciendo peticiones a una API; consolidando los conocimientos adquiridos y afrontando este proyecto de fomra autonoma para desarrollar habilidades de programación en el lenguaje Java enfocado al paradigma POO (Programación Orientada a Objetos).
 
 <p align="center">
     <img src="Resources/img/Badge-Conversor.png">

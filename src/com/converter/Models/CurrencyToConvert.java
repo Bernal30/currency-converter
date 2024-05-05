@@ -1,4 +1,4 @@
-package Models;
+package com.converter.Models;
 
 public class CurrencyToConvert {
 }

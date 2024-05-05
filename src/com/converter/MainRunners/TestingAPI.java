@@ -1,7 +1,7 @@
-package MainRunners;
+package com.converter.MainRunners;
 
-import Models.ConversionRateList;
-import Models.ExchangeRateList;
+import com.converter.Models.ConversionRateList;
+import com.converter.Models.ExchangeRateList;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 
